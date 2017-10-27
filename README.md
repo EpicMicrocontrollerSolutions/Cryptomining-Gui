@@ -1,9 +1,9 @@
 # Cryptomining-Gui
 A customized graphic user interface (GUI) for monitoring your cryptomining rigs
 
-I design R shiny apps and I am offering to custom design R shiny apps for 20 people to monitor you cryptocurrency mining rigs. If you are like me, you get tired of flipping through websites to monitor your cryptomining rigs. I have a python script that pulls cryptomining information on your workers based on the API data provided by your pools.  The script runs in some specified time interval, 20 minutes in my case, and pushes the data securely to a cloud provider.  The information is then pulled live from the cloud provider into the R shiny app.
+I design R shiny apps and I am offering to custom design R shiny apps for 20 people to monitor you cryptocurrency mining rigs. If you are like me, you get tired of flipping through websites to monitor your cryptomining hashrates. I created a python script that pulls cryptomining information on your workers based on the API data provided by your pools.  The script runs in some specified time interval, 20 minutes in my case, and pushes the data securely to a cloud provider.  The information is then pulled live from the cloud provider into the R shiny app.
 
-See my cryptomining rig example here, I mine ZEC (GPU), TZC (GPU), and BCN (CPU), I just launched this demo last night: 
+I mine ZEC (GPU), TZC (GPU), and BCN (CPU), and I switch between TZC and ZEC every 12 hours. I just launched this demo last night, see my cryptomining rig progress here: 
 https://epic-microcontroller-solutions-fishtank.shinyapps.io/crypto-gui/
 
 Your app can be password protected and only you can view it, or it could be public. The price will start at $30 USD, or equivalent in altcoins, and go up based on the level of customization. I can show you a better demo R shiny app if you are really interested. You will get 25 hours of viewing per month, forever, or we can do a monthly subscription if you need more time (you shouldn't).  
